@@ -1,0 +1,4 @@
+,signature_recall,hybrid_recall,signature_zero_day,hybrid_zero_day,signature_fpr,hybrid_fpr
+random_forest,0.6191,0.9029,0.2549,0.7861,0.0262,0.0471
+xgboost,0.6584,0.9120,0.3405,0.7861,0.0282,0.0478
+dnn,0.6897,0.9172,0.4336,0.7872,0.0772,0.0954

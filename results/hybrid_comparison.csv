@@ -1,0 +1,5 @@
+detector,accuracy,precision,recall,f1,fpr,zero_day_detection,known_attack_detection
+Signature only (xgboost),0.7934,0.9686,0.6584,0.7839,0.0282,0.3405,0.7896
+Anomaly only (autoencoder),0.8975,0.9622,0.8535,0.9046,0.0443,0.7843,0.8821
+Hybrid (OR rule),0.9293,0.9619,0.9120,0.9363,0.0478,0.7861,0.9640
+Hybrid (weighted),0.8844,0.9636,0.8281,0.8907,0.0413,0.7771,0.8492
